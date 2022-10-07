@@ -1,0 +1,41 @@
+#divArticle{
+    text-align: center;
+    width: 25%;
+    border: 1px solid black;
+    margin-bottom: 1%;
+    border-radius: 5%;
+}
+#divArticle h3{
+    margin: 0;
+}
+#divArticle h4{
+    margin: 0;
+}
+#divArticle p{
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+img {
+    width: 150px;
+    height: 150px;
+}
+
+#divArticle button{
+    width: 50%;
+    background-color: rgb(32, 95, 32);
+    color: white;
+    border: none;
+    border-radius: 5%;
+    padding: 2%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    font-size: larger;
+}
+
+#divBgRed {
+    height: 100%;
+}
+
+#soldOut{
+    margin: 2%;
+}

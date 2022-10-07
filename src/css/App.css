@@ -1,0 +1,36 @@
+body{
+    background-image: radial-gradient( circle, rgb(31,54,86), rgb(25,35,66));
+    color: white;
+}
+
+.divTitre{
+    text-align: center;
+}
+.divTitre span{
+    color: rgb(194, 144, 5);
+}
+.divTitre h1{
+    margin: 1%;
+}
+.divTitre h3{
+    margin: 0;
+    font-size: x-large;
+}
+
+.shop h2{
+    text-align: center;
+    margin-bottom: 0%;
+    margin: 0.5%;
+}
+.article{
+    display: flex;  
+    justify-content: space-evenly;  
+}    
+
+.divBtn{
+    display: flex;
+    gap: 20%;
+    justify-content: center;
+}
+
+      

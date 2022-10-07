@@ -1,0 +1,31 @@
+.checkout{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    align-content: center;
+}
+
+.titreCheckout{
+    text-align: center;
+}
+.checkoutArticle{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    margin-top: 1%;
+}
+
+.checkoutArticle button{
+    padding: 1%, 0.5%;
+    width: 15%;
+    color: white;
+    background-color: rgb(216, 148, 1);
+    border: none;
+    border-radius: 5%;
+}
+
+.checkoutArticle img{
+    width: 50px;
+    height: 50px;
+}
